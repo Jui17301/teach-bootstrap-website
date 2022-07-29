@@ -1,0 +1,9 @@
+img{
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+  height: 50%;
+}
+h5,p{
+  align-items: center;
+  justify-content: center;
+}
