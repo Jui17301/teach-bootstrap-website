@@ -7,3 +7,9 @@ h5,p{
   align-items: center;
   justify-content: center;
 }
+
+.star{
+  color:gold;
+  padding: 50px;
+
+}
